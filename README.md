@@ -29,7 +29,7 @@ I chose to tackle this project because of my ongoing interest in music informati
 
 To better visualize how the genres are clustered in a multi-dimensional space, I used PCA and UMAP to visualize the labeled data in two dimensions.  This provided a preliminary idea of how much the data points from the different genres overlapped.  It immediately became obvious that unsupervised learning algorithms would struggle, as the genres heavily overlap in this particular data space.
 
-![UMAP plot of genre clusters](https://github.com/jonesmo/Music_Genre_Clustering/blob/UMAP.png?raw=true)
+![UMAP plot of genre clusters](https://github.com/jonesmo/Music_Genre_Clustering/blob/main/UMAP.png?raw=true)
 
 
 ## Model Building
